@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://habit-tracker-rlw6.onrender.com/api/:path*"
+      "destination": "https://habit-tracker-r1w6.onrender.com/api/:path*"
     }
   ]
 }
